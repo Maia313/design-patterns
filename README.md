@@ -2,9 +2,9 @@
 
 ### Constructor:
 
-creates objects through functions
+`creates objects through functions`
 
-the `*new*` keyword:
+the `new` keyword:
 
 * Creates a brand new object
 * Links to an object prototype
@@ -12,12 +12,14 @@ the `*new*` keyword:
 
 ### Module pattern:
 
-object literal
+`object literal`
 
 * simple way to enacapsulate methods
 * creates a *toolbox* of functions to use
 
 ### Factory pattern:
+
+`simplifies object creation`
 
 * Simplifies object creation
 * Creating different objects based on need 
@@ -25,7 +27,7 @@ object literal
 
 ### Singleton
 
-Used to restrict an object to one instance of that object across the application.
+`Used to restrict an object to one instance of that object across the application.`
 
 * Remembers the last time you used it 
 * Hands the same instance back 
