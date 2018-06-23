@@ -1,5 +1,7 @@
 # Design patterns
 
+## Creational:
+
 ### Constructor:
 
 `creates objects through functions`
@@ -8,13 +10,13 @@ the `new` keyword:
 
 * Creates a brand new object
 * Links to an object prototype
-* Binds `this` to the new object scope Implicitly returns this
+* Binds `this` to the new object scope. Implicitly returns this
 
 ### Module pattern:
 
 `object literal`
 
-* simple way to enacapsulate methods
+* simple way to encapsulate methods
 * creates a *toolbox* of functions to use
 
 ### Factory pattern:
