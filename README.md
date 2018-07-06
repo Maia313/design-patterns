@@ -1,4 +1,4 @@
-# Design patterns
+![Markdown logo](https://img.shields.io/badge/JS-patterns-yellow.svg)
 
 ## Creational:
 
