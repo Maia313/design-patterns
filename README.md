@@ -1,4 +1,4 @@
-![Markdown logo](https://img.shields.io/badge/JS-patterns-yellow.svg)
+![JS](https://img.shields.io/badge/JS-patterns-yellow.svg)
 
 ### Creational:
 
