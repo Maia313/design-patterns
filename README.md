@@ -1,4 +1,3 @@
-![JS](https://img.shields.io/badge/JS-patterns-yellow.svg)
 
 ### Creational:
 
