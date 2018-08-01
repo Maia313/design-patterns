@@ -1,5 +1,5 @@
 
-### Creational:
+### Creational pattern:
 
 #### Constructor:
 
