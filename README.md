@@ -9,7 +9,7 @@ the `new` keyword:
 
 * Creates a brand new object
 * Links to an object prototype
-* Binds `this` to the new object scope. Implicitly returns this
+* Binds `this` to the new object scope. Implicitly returns `this`
 
 #### Module pattern:
 
