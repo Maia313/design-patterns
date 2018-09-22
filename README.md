@@ -1,7 +1,7 @@
 
-### Creational pattern:
+## Creational pattern:
 
-#### Constructor:
+### Constructor:
 
 `creates objects through functions`
 
@@ -11,14 +11,14 @@ the `new` keyword:
 * Links to an object prototype
 * Binds `this` to the new object scope. Implicitly returns `this`
 
-#### Module pattern:
+### Module pattern:
 
 `object literal`
 
 * simple way to encapsulate methods
 * creates a *toolbox* of functions to use
 
-#### Factory pattern:
+### Factory pattern:
 
 `simplifies object creation`
 
@@ -26,7 +26,7 @@ the `new` keyword:
 * Creating different objects based on need 
 * Repository Creation
 
-#### Singleton
+### Singleton
 
 `Used to restrict an object to one instance of that object across the application.`
 
