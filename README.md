@@ -37,9 +37,9 @@ the `new` keyword:
 
 # Table of Contents
 
-- [💪🏻 Motivation]([https://github.com/denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README.md#-motivation)
-- [✍🏻 Notation]([https://github.com/denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README.md#-notation)
-- [👀 Examples]([https://github.com/denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README.md#-examples)
+- [💪🏻 Motivation](https://github.com/denysdovhan/wtfjs/blob/master/README.md#-motivation)
+- [✍🏻 Notation](https://github.com/denysdovhan/wtfjs/blob/master/README.md#-notation)
+- [👀 Examples](https://github.com/denysdovhan/wtfjs/blob/master/README.md#-examples)
   - [`[]` is equal `![]`](#-is-equal-)
   - [`true` is not equal `![]`, but not equal `[]` too](#true-is-not-equal--but-not-equal--too)
   - [true is false](#true-is-false)
